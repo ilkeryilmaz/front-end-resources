@@ -8,6 +8,7 @@
 * [Mailchimp](http://ux.mailchimp.com/patterns): Mailchimp front-end framework
 
 ##### Style Guides 
+* [Airbnb](https://github.com/airbnb/css): Airbnb CSS / Sass Styleguide
 * [Trello](https://github.com/trello/trellisheets/blob/master/styleguide.md): Trello CSS Style Guide
 * [Dropbox](https://github.com/dropbox/css-style-guide): Dropbox CSS Style Guide
 * [Buffer](https://buffer.com/style-guide): The Buffer Style Guide
