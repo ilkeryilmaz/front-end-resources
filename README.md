@@ -19,6 +19,8 @@
 
 ##### Style Guides
 * [Airbnb](https://github.com/airbnb/javascript): JavaScript Style Guide
+* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide): A starting point for Angular development teams to provide consistency through good practices.
+* [Angular styleguide](https://github.com/toddmotto/angular-styleguide): Angular styleguide for teams
 
 ##### Examples
 * [Jstips](https://github.com/loverajoel/jstips#tips-list): This is about one JS tip every day!
