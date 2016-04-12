@@ -13,6 +13,7 @@
 * [Dropbox](https://github.com/dropbox/css-style-guide): Dropbox CSS Style Guide
 * [Buffer](https://buffer.com/style-guide): The Buffer Style Guide
 * [Salesforce](https://www.lightningdesignsystem.com/): Saleforce design system
+* [bc-style-guide - Nicolás](https://github.com/bevacqua/css): CSS: The Good Parts
 
 
 ## JS
@@ -21,6 +22,8 @@
 * [Airbnb](https://github.com/airbnb/javascript): JavaScript Style Guide
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide): A starting point for Angular development teams to provide consistency through good practices.
 * [Angular styleguide](https://github.com/toddmotto/angular-styleguide): Angular styleguide for teams
+* [A JavaScript Quality Guide - Nicolás](https://github.com/bevacqua/js): A quality conscious and organic JavaScript quality guide
+
 
 ##### Examples
 * [Jstips](https://github.com/loverajoel/jstips#tips-list): This is about one JS tip every day!
