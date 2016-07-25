@@ -21,6 +21,7 @@
 
 ##### Style Guides
 * [Airbnb](https://github.com/airbnb/javascript): JavaScript Style Guide
+* [idiomatic.js](https://github.com/rwaldron/idiomatic.js/): Principles of Writing Consistent, Idiomatic JavaScript
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide): A starting point for Angular development teams to provide consistency through good practices.
 * [Angular styleguide](https://github.com/toddmotto/angular-styleguide): Angular styleguide for teams
 * [A JavaScript Quality Guide - Nicolás](https://github.com/bevacqua/js): A quality conscious and organic JavaScript quality guide
