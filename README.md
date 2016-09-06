@@ -10,6 +10,7 @@
 ##### Style Guides 
 * [Airbnb](https://github.com/airbnb/css): Airbnb CSS / Sass Styleguide
 * [Trello](https://github.com/trello/trellisheets/blob/master/styleguide.md): Trello CSS Style Guide
+* [Evernote](https://github.com/evernote/css-style-guide): Evernote CSS Style Guide
 * [Dropbox](https://github.com/dropbox/css-style-guide): Dropbox CSS Style Guide
 * [Buffer](https://buffer.com/style-guide): The Buffer Style Guide
 * [Salesforce](https://www.lightningdesignsystem.com/): Saleforce design system
