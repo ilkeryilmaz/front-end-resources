@@ -1,5 +1,9 @@
 # Front-End Developer Resources
 
+## Frontend Guidelines 
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines): Some HTML, CSS and JS best practices.
+
+
 ## CSS 
 
 ##### Patterns
