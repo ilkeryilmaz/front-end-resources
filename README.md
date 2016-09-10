@@ -2,7 +2,7 @@
 
 ## Frontend Guidelines 
 * [frontend-guidelines](https://github.com/bendc/frontend-guidelines): Some HTML, CSS and JS best practices.
-
+* [code-guide](https://github.com/mdo/code-guide): Standards for flexible, durable, and sustainable HTML and CSS.
 
 ## CSS 
 
