@@ -22,6 +22,9 @@
 * [bc-style-guide - Nicolás](https://github.com/bevacqua/css): CSS: The Good Parts
 * [MaintainableCSS](http://maintainablecss.com/): MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
 * [idiomatic.css](https://github.com/necolas/idiomatic-css): Principles of writing consistent, idiomatic CSS.
+* [CSS Bliss](https://github.com/gilbox/css-bliss): A CSS style guide that puts the Clean, Smart, and Simple back into CSS
+* [Yelp](https://www.yelp.ca/styleguide/scss): This styleguide covers mixins for lots of CSS3 features as well as flexbox, animations and grids
+* [Workable](https://github.com/Workable/css-style-guide): How we do CSS/Sass at Workable
 
 
 ## JS
