@@ -19,7 +19,6 @@
 * [Evernote](https://github.com/evernote/css-style-guide): Evernote CSS Style Guide
 * [Dropbox](https://github.com/dropbox/css-style-guide): Dropbox CSS Style Guide
 * [Buffer](https://buffer.com/style-guide): The Buffer Style Guide
-* [Salesforce](https://www.lightningdesignsystem.com/): Saleforce design system
 * [bc-style-guide - Nicolás](https://github.com/bevacqua/css): CSS: The Good Parts
 * [MaintainableCSS](http://maintainablecss.com/): MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
 * [idiomatic.css](https://github.com/necolas/idiomatic-css): Principles of writing consistent, idiomatic CSS.
